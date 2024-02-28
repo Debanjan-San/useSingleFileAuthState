@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "debanjan-san",
+  "type": "module",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
