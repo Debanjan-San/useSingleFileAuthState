@@ -1,0 +1,15 @@
+{
+  "name": "usesinglefileauthstate",
+  "version": "1.0.0",
+  "description": "Create a JSON file containing all the credentials and keys for the @whiskeysockets/baileys sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "debanjan-san",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "fs": "^0.0.1-security"
+  }
+}
