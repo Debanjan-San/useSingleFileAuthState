@@ -3,7 +3,7 @@ Create a JSON file containing all the credentials and keys for the @whiskeysocke
 
 ## How to connect [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys.git)  using useSingleFileAuthState
 
-The ``@whiskeysockets/baileys`` library previously offered a function for storing credentials in a JSON folder. However, this functionality has been removed from the main codebase. Here, we present an alternative implementation of the same functionality as a standalone function, ready for use outside of the original library's context.
+The ``@whiskeysockets/baileys`` library previously offered a function for storing credentials in a JSON file. However, this functionality has been removed from the main codebase. Here, we present an alternative implementation of the same functionality as a standalone function, ready for use outside of the original library's context.
 
 ``` js
 import makeWASocket from '@whiskeysockets/baileys'
